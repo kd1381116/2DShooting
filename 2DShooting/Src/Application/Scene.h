@@ -31,8 +31,6 @@ private:
 
 	Scene() {}
 
-	int test = 0;
-
 public:
 	static Scene& GetInstance()
 	{
